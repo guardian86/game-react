@@ -1,0 +1,7 @@
+{
+  "name": "Game-React",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
